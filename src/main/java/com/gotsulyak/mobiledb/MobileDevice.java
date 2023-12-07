@@ -19,7 +19,6 @@ public class MobileDevice {
     private String brand;
     private String model;
     private float price;
-    // @Column(name = "operatingSystem", nullable = false, unique = false, length = 255)
     private String operating_system;
 }
 
