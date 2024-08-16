@@ -7,7 +7,7 @@ Host ports for connection:
 8091:33060/tcp
 
 Container system variables:
-MYSQL_ROOT_PASSWORD:     41978201
+MYSQL_ROOT_PASSWORD:     qwerty1234
 MYSQL_USER:              dbadmin
 MYSQL_PASSWORD:          goodpasswd
 MYSQL_DATABASE:          mobiledb
